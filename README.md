@@ -1,1 +1,1 @@
-# Games_planet
+# Yandex_practicum_project
